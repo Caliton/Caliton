@@ -21,4 +21,8 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/c%C3%A1liton-gon%C3%A7alves-12306916b/r" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![Snake animation](https://github.com/Caliton/Caliton/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
+  
