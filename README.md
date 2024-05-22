@@ -1,5 +1,5 @@
 ### Hi!!
-- 🔭 I’m currently working at Landix Sistemas as fullstack developer
+- 🔭 I’m currently working at +A Educação as fullstack developer
 - ⛰️ I love exploring
 
 <div>
